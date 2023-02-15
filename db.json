@@ -1,4 +1,4 @@
-
+[
   {
     "id": 1,
     "name": "First Person"
@@ -10,5 +10,5 @@
   {
     "id": 3,
     "name": "Third Person"
-  },
-  
+  }
+]
